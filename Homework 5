@@ -1,0 +1,68 @@
+public class ThereWasAnOldLadyWhoSwallowedAFLy {
+
+public static void main(String[] args) throws Exception {
+verse1();
+verse2();
+verse3();
+verse4();
+verse5():
+verse6():
+}
+
+public static void verse1() {
+
+System.out.println("There was an old lady who swallowed a fly.");
+System.out.println("I don't know why she swallowed a fly,");
+System.out.println("perhaps she'll die.");
+System.out.println("\n");
+}
+
+public static void verse2() {
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("\n");
+
+}
+
+public static void verse3() {
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("\n");
+}
+
+public static void verse4() {
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("\n");
+}
+
+public static void verse5() {
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("");
+System.out.println("\n");
+}
+
+public static void verse6() {
+System.out.println("");
+System.out.println("");
+System.out.println("\n");
+}
+
+}
